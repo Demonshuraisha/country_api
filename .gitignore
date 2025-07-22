@@ -1,0 +1,14 @@
+# Environnements virtuels
+env/
+
+# Fichiers Python compilés
+__pycache__/
+
+
+# Fichiers de configuration d'IDE
+.vscode/
+.idea/
+
+# Variables d'environnement
+*.env
+
