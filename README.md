@@ -41,7 +41,7 @@ uvicorn main:app --reload
 - `country.json` : données des pays
 
 ## Auteur
-- [Votre nom]
+- Unamed
 
 ## Licence
 Ce projet est sous licence MIT. 
